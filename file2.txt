@@ -1,0 +1,3 @@
+Hi there 
+This is file2
+created with windows GUI
